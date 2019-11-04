@@ -1,7 +1,7 @@
 {
-  "name": "udemy-ts-sort",
+  "name": "ts-sort",
   "version": "1.0.0",
-  "description": "udemy ts sort",
+  "description": "ts sort",
   "main": "index.js",
   "scripts": {
     "start:build": "tsc -w",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ermondel/udemy-ts-sort.git"
+    "url": "git+https://github.com/ermondel/ts-sort.git"
   },
   "author": "ermondel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ermondel/udemy-ts-sort/issues"
+    "url": "https://github.com/ermondel/ts-sort/issues"
   },
-  "homepage": "https://github.com/ermondel/udemy-ts-sort#readme",
+  "homepage": "https://github.com/ermondel/ts-sort#readme",
   "dependencies": {
     "concurrently": "^4.1.2",
     "nodemon": "^1.19.2"
