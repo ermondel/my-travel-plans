@@ -8,6 +8,8 @@ _Project for Udemy TypeScript course._
 
 Bubble sort example.
 
+![drawing](https://github.com/ermondel/tsttmp/blob/master/files/drawings/drawing-ts-sort.png)
+
 ### Features
 
 - Sort a collection of numbers
